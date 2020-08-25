@@ -1,0 +1,29 @@
+/* Jensly Francisco
+   9 March 2017
+   Dr. Rochelle Elva
+*/
+	  
+h2{
+    text-align: center;
+}
+	  
+body { 
+  background: url(ucf.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+p {
+	text-align: left;
+	width: 44.3%
+}
+
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
